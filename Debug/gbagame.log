@@ -1,0 +1,79 @@
+﻿  BG_Map.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/BG_Map.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/BG_Map.c -o BG_Map.o 
+  BG_Palette.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/BG_Palette.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/BG_Palette.c -o BG_Palette.o 
+  BG_Tiles.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/BG_Tiles.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/BG_Tiles.c -o BG_Tiles.o 
+  FG_Collisions.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/FG_Collisions.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/FG_Collisions.c -o FG_Collisions.o 
+  FG_Map.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/FG_Map.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/FG_Map.c -o FG_Map.o 
+  FG_Palette.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/FG_Palette.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/FG_Palette.c -o FG_Palette.o 
+  FG_Tiles.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/FG_Tiles.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/FG_Tiles.c -o FG_Tiles.o 
+  background_manager.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/background_manager.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/background_manager.c -o background_manager.o 
+  flameloop1.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/flameloop1.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/flameloop1.c -o flameloop1.o 
+  flameloop2.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/flameloop2.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/flameloop2.c -o flameloop2.o 
+  flameloop3.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/flameloop3.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/flameloop3.c -o flameloop3.o 
+  flameloop4.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/flameloop4.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/flameloop4.c -o flameloop4.o 
+  flameloop5.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/flameloop5.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/flameloop5.c -o flameloop5.o 
+  flameloop6.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/flameloop6.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/flameloop6.c -o flameloop6.o 
+  flameloop7.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/flameloop7.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/flameloop7.c -o flameloop7.o 
+  flamestart1.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/flamestart1.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/flamestart1.c -o flamestart1.o 
+  flamestart2.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/flamestart2.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/flamestart2.c -o flamestart2.o 
+  flamestart3.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/flamestart3.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/flamestart3.c -o flamestart3.o 
+  game_manager.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/game_manager.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/game_manager.c -o game_manager.o 
+  gba_drawing.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/gba_drawing.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/gba_drawing.c -o gba_drawing.o 
+  gba_gfx.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/gba_gfx.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/gba_gfx.c -o gba_gfx.o 
+  gba_input.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/gba_input.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/gba_input.c -o gba_input.o 
+  gba_math.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/gba_math.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/gba_math.c -o gba_math.o 
+  gba_mathUtil.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/gba_mathUtil.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/gba_mathUtil.c -o gba_mathUtil.o 
+  loader.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/loader.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/loader.c -o loader.o 
+  main.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/main.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/main.c -o main.o 
+  object.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/object.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/object.c -o object.o 
+  object_animation_controller.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/object_animation_controller.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/object_animation_controller.c -o object_animation_controller.o 
+  particle_sys.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/particle_sys.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/particle_sys.c -o particle_sys.o 
+  player.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/player.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/player.c -o player.o 
+  player_flame.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/player_flame.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/player_flame.c -o player_flame.o 
+  sinlut.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/sinlut.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/sinlut.c -o sinlut.o 
+  snow.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/snow.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/snow.c -o snow.o 
+  sorloattack.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/sorloattack.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/sorloattack.c -o sorloattack.o 
+  sorlojump.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/sorlojump.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/sorlojump.c -o sorlojump.o 
+  sorlostatic.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/sorlostatic.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/sorlostatic.c -o sorlostatic.o 
+  sorlowalk1.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/sorlowalk1.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/sorlowalk1.c -o sorlowalk1.o 
+  sorlowalk2.c
+  arm-none-eabi-gcc -MMD -MP -MF /c/Users/sgtmo/Desktop/gbagame/build/sorlowalk2.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/Users/sgtmo/Desktop/gbagame/include -I/c/devkitPro/libgba/include -I/c/Users/sgtmo/Desktop/gbagame/build -c /c/Users/sgtmo/Desktop/gbagame/source/sorlowalk2.c -o sorlowalk2.o 
+  linking cartridge
+  built ... gbagame.gba
+  ROM fixed!

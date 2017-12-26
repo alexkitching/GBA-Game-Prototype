@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\GBA">
+      <UniqueIdentifier>{217e00f9-c7c6-4fce-88ac-d71a554e78d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GBA">
+      <UniqueIdentifier>{c44ffeaa-993e-4531-88ba-838d08fceb54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Backgrounds">
+      <UniqueIdentifier>{faa5f75a-3c28-4d38-82d6-b1182218b2ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites">
+      <UniqueIdentifier>{8a1764c3-268f-44e2-a703-2dcd51ae2887}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Backgrounds\Background">
+      <UniqueIdentifier>{5bb74e7e-73f5-4d20-8896-b20cab9e87e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Backgrounds\Foreground">
+      <UniqueIdentifier>{f94de3df-ba48-4aaa-a9ba-363446c837b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites\Sorlo">
+      <UniqueIdentifier>{10fb22f3-e9ec-4cce-bc9a-6d0af210646a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites\Particles">
+      <UniqueIdentifier>{3abd3017-0dbf-47c6-8e03-11a8dd882d1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites\Particles\Snow">
+      <UniqueIdentifier>{76285875-8152-447c-99ec-eae6d9334bd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sprites\Particles\Flames">
+      <UniqueIdentifier>{abcf949d-90ad-45ff-b7bd-9ba4ffb76437}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="readme.txt" />
+    <Text Include="Makefile" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\loader.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\object.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\gba_drawing.c">
+      <Filter>Source Files\GBA</Filter>
+    </ClCompile>
+    <ClCompile Include="source\gba_gfx.c">
+      <Filter>Source Files\GBA</Filter>
+    </ClCompile>
+    <ClCompile Include="source\gba_input.c">
+      <Filter>Source Files\GBA</Filter>
+    </ClCompile>
+    <ClCompile Include="source\gba_math.c">
+      <Filter>Source Files\GBA</Filter>
+    </ClCompile>
+    <ClCompile Include="source\gba_mathUtil.c">
+      <Filter>Source Files\GBA</Filter>
+    </ClCompile>
+    <ClCompile Include="source\sinlut.c">
+      <Filter>Source Files\GBA</Filter>
+    </ClCompile>
+    <ClCompile Include="source\player.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\FG_Collisions.c">
+      <Filter>Resource Files\Backgrounds\Foreground</Filter>
+    </ClCompile>
+    <ClCompile Include="source\FG_Map.c">
+      <Filter>Resource Files\Backgrounds\Foreground</Filter>
+    </ClCompile>
+    <ClCompile Include="source\FG_Palette.c">
+      <Filter>Resource Files\Backgrounds\Foreground</Filter>
+    </ClCompile>
+    <ClCompile Include="source\FG_Tiles.c">
+      <Filter>Resource Files\Backgrounds\Foreground</Filter>
+    </ClCompile>
+    <ClCompile Include="source\BG_Map.c">
+      <Filter>Resource Files\Backgrounds\Background</Filter>
+    </ClCompile>
+    <ClCompile Include="source\BG_Palette.c">
+      <Filter>Resource Files\Backgrounds\Background</Filter>
+    </ClCompile>
+    <ClCompile Include="source\BG_Tiles.c">
+      <Filter>Resource Files\Backgrounds\Background</Filter>
+    </ClCompile>
+    <ClCompile Include="source\sorlojump.c">
+      <Filter>Resource Files\Sprites\Sorlo</Filter>
+    </ClCompile>
+    <ClCompile Include="source\sorlostatic.c">
+      <Filter>Resource Files\Sprites\Sorlo</Filter>
+    </ClCompile>
+    <ClCompile Include="source\sorlowalk1.c">
+      <Filter>Resource Files\Sprites\Sorlo</Filter>
+    </ClCompile>
+    <ClCompile Include="source\sorlowalk2.c">
+      <Filter>Resource Files\Sprites\Sorlo</Filter>
+    </ClCompile>
+    <ClCompile Include="source\snow.c">
+      <Filter>Resource Files\Sprites\Particles\Snow</Filter>
+    </ClCompile>
+    <ClCompile Include="source\flameloop1.c">
+      <Filter>Resource Files\Sprites\Particles\Flames</Filter>
+    </ClCompile>
+    <ClCompile Include="source\flameloop2.c">
+      <Filter>Resource Files\Sprites\Particles\Flames</Filter>
+    </ClCompile>
+    <ClCompile Include="source\flameloop3.c">
+      <Filter>Resource Files\Sprites\Particles\Flames</Filter>
+    </ClCompile>
+    <ClCompile Include="source\flameloop4.c">
+      <Filter>Resource Files\Sprites\Particles\Flames</Filter>
+    </ClCompile>
+    <ClCompile Include="source\flameloop5.c">
+      <Filter>Resource Files\Sprites\Particles\Flames</Filter>
+    </ClCompile>
+    <ClCompile Include="source\flameloop6.c">
+      <Filter>Resource Files\Sprites\Particles\Flames</Filter>
+    </ClCompile>
+    <ClCompile Include="source\flameloop7.c">
+      <Filter>Resource Files\Sprites\Particles\Flames</Filter>
+    </ClCompile>
+    <ClCompile Include="source\flamestart1.c">
+      <Filter>Resource Files\Sprites\Particles\Flames</Filter>
+    </ClCompile>
+    <ClCompile Include="source\flamestart2.c">
+      <Filter>Resource Files\Sprites\Particles\Flames</Filter>
+    </ClCompile>
+    <ClCompile Include="source\flamestart3.c">
+      <Filter>Resource Files\Sprites\Particles\Flames</Filter>
+    </ClCompile>
+    <ClCompile Include="source\sorloattack.c">
+      <Filter>Resource Files\Sprites\Sorlo</Filter>
+    </ClCompile>
+    <ClCompile Include="source\background_manager.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\game_manager.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\object_animation_controller.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\particle_sys.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\player_flame.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\loader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\object.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\gba.h">
+      <Filter>Header Files\GBA</Filter>
+    </ClInclude>
+    <ClInclude Include="include\gba_drawing.h">
+      <Filter>Header Files\GBA</Filter>
+    </ClInclude>
+    <ClInclude Include="include\gba_gfx.h">
+      <Filter>Header Files\GBA</Filter>
+    </ClInclude>
+    <ClInclude Include="include\gba_input.h">
+      <Filter>Header Files\GBA</Filter>
+    </ClInclude>
+    <ClInclude Include="include\gba_math.h">
+      <Filter>Header Files\GBA</Filter>
+    </ClInclude>
+    <ClInclude Include="include\gba_mathUtil.h">
+      <Filter>Header Files\GBA</Filter>
+    </ClInclude>
+    <ClInclude Include="include\gba_reg.h">
+      <Filter>Header Files\GBA</Filter>
+    </ClInclude>
+    <ClInclude Include="include\gba_types.h">
+      <Filter>Header Files\GBA</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Intellisense.h">
+      <Filter>Header Files\GBA</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sinlut.h">
+      <Filter>Header Files\GBA</Filter>
+    </ClInclude>
+    <ClInclude Include="include\player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\FG_Collisions.h">
+      <Filter>Resource Files\Backgrounds\Foreground</Filter>
+    </ClInclude>
+    <ClInclude Include="include\FG_Map.h">
+      <Filter>Resource Files\Backgrounds\Foreground</Filter>
+    </ClInclude>
+    <ClInclude Include="include\FG_Palette.h">
+      <Filter>Resource Files\Backgrounds\Foreground</Filter>
+    </ClInclude>
+    <ClInclude Include="include\FG_Tiles.h">
+      <Filter>Resource Files\Backgrounds\Foreground</Filter>
+    </ClInclude>
+    <ClInclude Include="include\BG_Map.h">
+      <Filter>Resource Files\Backgrounds\Background</Filter>
+    </ClInclude>
+    <ClInclude Include="include\BG_Palette.h">
+      <Filter>Resource Files\Backgrounds\Background</Filter>
+    </ClInclude>
+    <ClInclude Include="include\BG_Tiles.h">
+      <Filter>Resource Files\Backgrounds\Background</Filter>
+    </ClInclude>
+    <ClInclude Include="include\snow.h">
+      <Filter>Resource Files\Sprites\Particles\Snow</Filter>
+    </ClInclude>
+    <ClInclude Include="include\flame.h">
+      <Filter>Resource Files\Sprites\Particles\Flames</Filter>
+    </ClInclude>
+    <ClInclude Include="include\gba_dma.h">
+      <Filter>Header Files\GBA</Filter>
+    </ClInclude>
+    <ClInclude Include="include\background_manager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\game_manager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\object_animation_controller.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\particle_sys.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\player_flame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sorlo.h">
+      <Filter>Resource Files\Sprites\Sorlo</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

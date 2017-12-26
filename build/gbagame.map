@@ -1,0 +1,1204 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb\libgcc.a(_divsi3.o)
+                              gba_math.o (__aeabi_idiv)
+c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb\libgcc.a(_dvmd_tls.o)
+                              c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb\libgcc.a(_divsi3.o) (__aeabi_idiv0)
+c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb\libgcc.a(_arm_addsubsf3.o)
+                              gba_math.o (__aeabi_i2f)
+c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb\libgcc.a(_arm_muldivsf3.o)
+                              gba_math.o (__aeabi_fmul)
+c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb\libgcc.a(_arm_fixsfsi.o)
+                              gba_math.o (__aeabi_f2iz)
+c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-init.o)
+                              c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o (__libc_init_array)
+c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb\libsysbase.a(malloc_vars.o)
+                              c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o (fake_heap_end)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+ .bss           0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+ .text          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crti.o
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crti.o
+ .bss           0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crti.o
+ .text          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtbegin.o
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtbegin.o
+ .bss           0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtbegin.o
+ .data.__dso_handle
+                0x00000000        0x4 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtbegin.o
+ .text          0x00000000        0x0 BG_Map.o
+ .data          0x00000000        0x0 BG_Map.o
+ .bss           0x00000000        0x0 BG_Map.o
+ .text          0x00000000        0x0 BG_Palette.o
+ .data          0x00000000        0x0 BG_Palette.o
+ .bss           0x00000000        0x0 BG_Palette.o
+ .text          0x00000000        0x0 BG_Tiles.o
+ .data          0x00000000        0x0 BG_Tiles.o
+ .bss           0x00000000        0x0 BG_Tiles.o
+ .text          0x00000000        0x0 FG_Collisions.o
+ .data          0x00000000        0x0 FG_Collisions.o
+ .bss           0x00000000        0x0 FG_Collisions.o
+ .text          0x00000000        0x0 FG_Map.o
+ .data          0x00000000        0x0 FG_Map.o
+ .bss           0x00000000        0x0 FG_Map.o
+ .text          0x00000000        0x0 FG_Palette.o
+ .data          0x00000000        0x0 FG_Palette.o
+ .bss           0x00000000        0x0 FG_Palette.o
+ .text          0x00000000        0x0 FG_Tiles.o
+ .data          0x00000000        0x0 FG_Tiles.o
+ .bss           0x00000000        0x0 FG_Tiles.o
+ .data          0x00000000        0x0 background_manager.o
+ .bss           0x00000000        0x0 background_manager.o
+ .text          0x00000000        0x0 flameloop1.o
+ .data          0x00000000        0x0 flameloop1.o
+ .bss           0x00000000        0x0 flameloop1.o
+ .text          0x00000000        0x0 flameloop2.o
+ .data          0x00000000        0x0 flameloop2.o
+ .bss           0x00000000        0x0 flameloop2.o
+ .text          0x00000000        0x0 flameloop3.o
+ .data          0x00000000        0x0 flameloop3.o
+ .bss           0x00000000        0x0 flameloop3.o
+ .text          0x00000000        0x0 flameloop4.o
+ .data          0x00000000        0x0 flameloop4.o
+ .bss           0x00000000        0x0 flameloop4.o
+ .text          0x00000000        0x0 flameloop5.o
+ .data          0x00000000        0x0 flameloop5.o
+ .bss           0x00000000        0x0 flameloop5.o
+ .text          0x00000000        0x0 flameloop6.o
+ .data          0x00000000        0x0 flameloop6.o
+ .bss           0x00000000        0x0 flameloop6.o
+ .text          0x00000000        0x0 flameloop7.o
+ .data          0x00000000        0x0 flameloop7.o
+ .bss           0x00000000        0x0 flameloop7.o
+ .text          0x00000000        0x0 flamestart1.o
+ .data          0x00000000        0x0 flamestart1.o
+ .bss           0x00000000        0x0 flamestart1.o
+ .text          0x00000000        0x0 flamestart2.o
+ .data          0x00000000        0x0 flamestart2.o
+ .bss           0x00000000        0x0 flamestart2.o
+ .text          0x00000000        0x0 flamestart3.o
+ .data          0x00000000        0x0 flamestart3.o
+ .bss           0x00000000        0x0 flamestart3.o
+ .data          0x00000000        0x0 game_manager.o
+ .bss           0x00000000        0x0 game_manager.o
+ .text          0x00000000      0x222 gba_drawing.o
+ .data          0x00000000        0x0 gba_drawing.o
+ .bss           0x00000000        0x0 gba_drawing.o
+ .rodata        0x00000000        0x4 gba_gfx.o
+ .text          0x00000000        0x0 gba_input.o
+ .data          0x00000000        0x0 gba_input.o
+ .data          0x00000000        0x0 gba_math.o
+ .bss           0x00000000        0x0 gba_math.o
+ .bss           0x00000000        0x0 gba_mathUtil.o
+ .data          0x00000000        0x0 loader.o
+ .bss           0x00000000        0x0 loader.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .data          0x00000000        0x0 object.o
+ .bss           0x00000000        0x0 object.o
+ .data          0x00000000        0x0 object_animation_controller.o
+ .bss           0x00000000        0x0 object_animation_controller.o
+ .data          0x00000000        0x0 particle_sys.o
+ .bss           0x00000000        0x0 particle_sys.o
+ .data          0x00000000        0x0 player.o
+ .bss           0x00000000        0x0 player.o
+ .data          0x00000000        0x0 player_flame.o
+ .bss           0x00000000        0x0 player_flame.o
+ .text          0x00000000        0x0 sinlut.o
+ .data          0x00000000        0x0 sinlut.o
+ .bss           0x00000000        0x0 sinlut.o
+ .text          0x00000000        0x0 snow.o
+ .data          0x00000000        0x0 snow.o
+ .bss           0x00000000        0x0 snow.o
+ .text          0x00000000        0x0 sorloattack.o
+ .data          0x00000000        0x0 sorloattack.o
+ .bss           0x00000000        0x0 sorloattack.o
+ .text          0x00000000        0x0 sorlojump.o
+ .data          0x00000000        0x0 sorlojump.o
+ .bss           0x00000000        0x0 sorlojump.o
+ .text          0x00000000        0x0 sorlostatic.o
+ .data          0x00000000        0x0 sorlostatic.o
+ .bss           0x00000000        0x0 sorlostatic.o
+ .text          0x00000000        0x0 sorlowalk1.o
+ .data          0x00000000        0x0 sorlowalk1.o
+ .bss           0x00000000        0x0 sorlowalk1.o
+ .text          0x00000000        0x0 sorlowalk2.o
+ .data          0x00000000        0x0 sorlowalk2.o
+ .bss           0x00000000        0x0 sorlowalk2.o
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb\libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb\libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb\libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb\libgcc.a(_arm_addsubsf3.o)
+ .bss           0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb\libgcc.a(_arm_addsubsf3.o)
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb\libgcc.a(_arm_muldivsf3.o)
+ .bss           0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb\libgcc.a(_arm_muldivsf3.o)
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb\libgcc.a(_arm_fixsfsi.o)
+ .bss           0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb\libgcc.a(_arm_fixsfsi.o)
+ .text          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb\libsysbase.a(malloc_vars.o)
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb\libsysbase.a(malloc_vars.o)
+ .bss           0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb\libsysbase.a(malloc_vars.o)
+ .bss.fake_heap_start
+                0x00000000        0x4 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb\libsysbase.a(malloc_vars.o)
+ .text          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtend.o
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtend.o
+ .bss           0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtend.o
+ .text          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtn.o
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtn.o
+ .bss           0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x08000000         0x02000000
+iwram            0x03000000         0x00008000
+ewram            0x02000000         0x00040000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x08000000                __text_start = ORIGIN (rom)
+                0x02040000                __eheap_end = (ORIGIN (ewram) + LENGTH (ewram))
+                0x03000000                __iwram_start = ORIGIN (iwram)
+                0x03008000                __iwram_top = (ORIGIN (iwram) + LENGTH (iwram))
+                0x03007fa0                __sp_irq = (__iwram_top - 0x60)
+                0x03007f00                __sp_usr = (__sp_irq - 0xa0)
+                0x03007ff8                __irq_flags = 0x3007ff8
+                0x08000000                . = __text_start
+
+.crt0           0x08000000      0x210
+ *(.crt0)
+ .crt0          0x08000000      0x210 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+                0x08000000                _start
+                0x080000c4                __boot_method
+                0x080000c5                __slave_number
+                0x080000e0                start_vector
+                0x08000210                . = ALIGN (0x4)
+
+.init           0x08000210        0xc
+ *(SORT(.init))
+ .init          0x08000210        0x4 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crti.o
+                0x08000210                _init
+ .init          0x08000214        0x8 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtn.o
+
+.plt            0x0800021c        0x0
+ *(.plt)
+                0x0800021c                . = ALIGN (0x4)
+
+.text           0x08000220     0x40e8
+ *(EXCLUDE_FILE(*.iwram*) .text)
+ .text          0x08000220      0xf80 background_manager.o
+                0x08000220                LoadBackgroundData
+                0x080002b4                ResetLevel
+                0x08000578                LoadBackgrounds
+                0x08000a50                AttemptScrolling
+                0x08000ad4                ScrollForeground
+                0x08000d10                InitialiseSnow
+                0x08000e84                UpdateSnow
+                0x08000ff8                LoadLeftTiles
+                0x080010cc                LoadRightTiles
+ .text          0x080011a0      0x2bc game_manager.o
+                0x080011a0                InitGame
+                0x080011ec                UpdateGame
+                0x0800138c                HandlePlayerYBoundJump
+                0x080013c2                PlayerHasControl
+ .text          0x0800145c      0x660 gba_gfx.o
+                0x0800145c                vsync
+                0x0800148c                page_flip
+                0x080014c4                tile_block_address
+                0x080014e4                tileMap_block_address
+                0x08001504                sprite_tile_block_address
+                0x0800152c                setBG_Control_Register
+                0x08001628                palette_bg_block_address
+                0x08001648                palette_sp_block_address
+                0x0800166c                SetAttrib0
+                0x0800172c                SetAttrib1
+                0x08001792                SetAttrib1AffineIndex
+                0x080017e4                SetAttrib2
+                0x08001850                SetObjectPosition
+                0x080018c0                obj_hide
+                0x080018fc                obj_unhide
+                0x0800194c                oam_init
+                0x080019b2                oam_copy
+                0x08001a04                obj_aff_identity
+                0x08001a38                obj_aff_rotscale
+ .text          0x08001abc      0x184 gba_math.o
+                0x08001abc                int2fix
+                0x08001ad4                float2fix
+                0x08001afc                fix2uint
+                0x08001b14                fix2ufrac
+                0x08001b2e                fix2int
+                0x08001b4c                fix2float
+                0x08001b74                fixAdd
+                0x08001b90                fixSub
+                0x08001bac                fixMul
+                0x08001bcc                fixDiv
+                0x08001bf0                lu_sin
+                0x08001c18                lu_cos
+ .text          0x08001c40       0xd8 gba_mathUtil.o
+                0x08001c40                sqran
+                0x08001c68                qran
+                0x08001ca0                qran_range
+                0x08001ccc                sign
+                0x08001cf4                abs
+ .text          0x08001d18      0x3f8 loader.o
+                0x08001d18                LoadData
+                0x08001de4                LoadObject
+                0x08001fa0                LoadToExistingObject
+                0x080020cc                SetupObject
+ .text          0x08002110       0xb8 main.o
+                0x08002110                main
+ .text          0x080021c8      0x24c object.o
+                0x080021c8                InitialiseObject
+                0x080022a8                SetObjectPadding
+                0x080022d0                FlipObjectHorizontal
+                0x080022fa                FlipObjectVertical
+                0x08002324                MoveObject
+                0x08002376                UpdateObject
+ .text          0x08002414      0x2f2 object_animation_controller.o
+                0x08002414                SetupAnimController
+                0x0800245c                AddStaticAnim
+                0x080024ea                AddDynamicAnim
+                0x0800256a                LoadAnim
+                0x08002600                LoadDynamicAnim
+                0x08002692                PlayDynamicAnim
+ .text          0x08002706      0x2bc particle_sys.o
+                0x08002706                InitParticle
+                0x0800276c                EmitParticle
+                0x080027bc                EmitParticleSpecify
+                0x080028bc                UpdateEmittedParticle
+ *fill*         0x080029c2        0x2 ff
+ .text          0x080029c4      0xe04 player.o
+                0x080029c4                SetupPlayer
+                0x08002b20                GetPlayerInput
+                0x08002ed0                Move
+                0x08002f82                ApplyHorizontalDrag
+                0x08002fc8                Jump
+                0x08003010                ResetPlayer
+                0x080030a0                CheckCollisions
+                0x08003674                SaveCheckPointSnapShot
+                0x08003738                UpdatePlayer
+ .text          0x080037c8      0x2a4 player_flame.o
+                0x080037c8                SetupFlame
+                0x08003970                StartFlame
+                0x080039a0                UpdateFlame
+                0x08003a42                EndFlame
+ .text          0x08003a6c      0x150 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb\libgcc.a(_divsi3.o)
+                0x08003a6c                __divsi3
+                0x08003a6c                __aeabi_idiv
+                0x08003b9c                __aeabi_idivmod
+ .text          0x08003bbc        0x4 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb\libgcc.a(_dvmd_tls.o)
+                0x08003bbc                __aeabi_idiv0
+                0x08003bbc                __aeabi_ldiv0
+ .text          0x08003bc0      0x2ac c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb\libgcc.a(_arm_addsubsf3.o)
+                0x08003bc0                __aeabi_frsub
+                0x08003bc8                __subsf3
+                0x08003bc8                __aeabi_fsub
+                0x08003bcc                __aeabi_fadd
+                0x08003bcc                __addsf3
+                0x08003d88                __aeabi_ui2f
+                0x08003d88                __floatunsisf
+                0x08003d90                __aeabi_i2f
+                0x08003d90                __floatsisf
+                0x08003db0                __aeabi_ul2f
+                0x08003db0                __floatundisf
+                0x08003dc0                __aeabi_l2f
+                0x08003dc0                __floatdisf
+ .text          0x08003e6c      0x2f8 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb\libgcc.a(_arm_muldivsf3.o)
+                0x08003e6c                __mulsf3
+                0x08003e6c                __aeabi_fmul
+                0x08004004                __aeabi_fdiv
+                0x08004004                __divsf3
+ .text          0x08004164       0x5c c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb\libgcc.a(_arm_fixsfsi.o)
+                0x08004164                __aeabi_f2iz
+                0x08004164                __fixsfsi
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text.deregister_tm_clones
+                0x080041c0       0x2c c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtbegin.o
+ .text.register_tm_clones
+                0x080041ec       0x34 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtbegin.o
+ .text.__do_global_dtors_aux
+                0x08004220       0x30 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtbegin.o
+ .text.frame_dummy
+                0x08004250       0x28 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtbegin.o
+ .text.__libc_init_array
+                0x08004278       0x54 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-init.o)
+                0x08004278                __libc_init_array
+ *fill*         0x080042cc        0x4 ff
+ .text.__libc_init_array.__stub
+                0x080042d0       0x34 linker stubs
+ *(.text.*personality*)
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x08004308        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x08004308        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x08004308        0x0 linker stubs
+                0x08004308                . = ALIGN (0x4)
+                0x08004308                __text_end = .
+
+.v4_bx          0x08004308        0x0
+ .v4_bx         0x08004308        0x0 linker stubs
+
+.iplt           0x08004308        0x0
+ .iplt          0x08004308        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+
+.fini           0x08004308        0xc
+ *(.fini)
+ .fini          0x08004308        0x4 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crti.o
+                0x08004308                _fini
+ .fini          0x0800430c        0x8 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtn.o
+                0x08004314                . = ALIGN (0x4)
+
+.rodata         0x08004314     0x9a00
+ *(.rodata)
+ .rodata        0x08004314      0x800 BG_Map.o
+                0x08004314                bg_map
+ .rodata        0x08004b14       0x20 BG_Palette.o
+                0x08004b14                bg_Palette
+ .rodata        0x08004b34     0x3f40 BG_Tiles.o
+                0x08004b34                bg_tiles
+ .rodata        0x08008a74     0x1000 FG_Collisions.o
+                0x08008a74                fgCollision
+ .rodata        0x08009a74     0x2000 FG_Map.o
+                0x08009a74                fg_map
+ .rodata        0x0800ba74       0x20 FG_Palette.o
+                0x0800ba74                fg_Palette
+ .rodata        0x0800ba94      0x860 FG_Tiles.o
+                0x0800ba94                fg_tiles
+ .rodata        0x0800c2f4      0x120 flameloop1.o
+                0x0800c2f4                flameloop1Tiles
+                0x0800c3f4                flameloop1Pal
+ .rodata        0x0800c414      0x120 flameloop2.o
+                0x0800c414                flameloop2Tiles
+                0x0800c514                flameloop2Pal
+ .rodata        0x0800c534      0x120 flameloop3.o
+                0x0800c534                flameloop3Tiles
+                0x0800c634                flameloop3Pal
+ .rodata        0x0800c654      0x120 flameloop4.o
+                0x0800c654                flameloop4Tiles
+                0x0800c754                flameloop4Pal
+ .rodata        0x0800c774      0x120 flameloop5.o
+                0x0800c774                flameloop5Tiles
+                0x0800c874                flameloop5Pal
+ .rodata        0x0800c894      0x120 flameloop6.o
+                0x0800c894                flameloop6Tiles
+                0x0800c994                flameloop6Pal
+ .rodata        0x0800c9b4      0x120 flameloop7.o
+                0x0800c9b4                flameloop7Tiles
+                0x0800cab4                flameloop7Pal
+ .rodata        0x0800cad4      0x120 flamestart1.o
+                0x0800cad4                flamestart1Tiles
+                0x0800cbd4                flamestart1Pal
+ .rodata        0x0800cbf4      0x120 flamestart2.o
+                0x0800cbf4                flamestart2Tiles
+                0x0800ccf4                flamestart2Pal
+ .rodata        0x0800cd14      0x120 flamestart3.o
+                0x0800cd14                flamestart3Tiles
+                0x0800ce14                flamestart3Pal
+ .rodata        0x0800ce34      0x400 sinlut.o
+                0x0800ce34                sin_lut
+ .rodata        0x0800d234       0x40 snow.o
+                0x0800d234                snowTiles
+                0x0800d254                snowPal
+ .rodata        0x0800d274      0x220 sorloattack.o
+                0x0800d274                sorloattackTiles
+                0x0800d474                sorloattackPal
+ .rodata        0x0800d494      0x220 sorlojump.o
+                0x0800d494                sorlojumpTiles
+                0x0800d694                sorlojumpPal
+ .rodata        0x0800d6b4      0x220 sorlostatic.o
+                0x0800d6b4                sorlostaticTiles
+                0x0800d8b4                sorlostaticPal
+ .rodata        0x0800d8d4      0x220 sorlowalk1.o
+                0x0800d8d4                sorlowalk1Tiles
+                0x0800dad4                sorlowalk1Pal
+ .rodata        0x0800daf4      0x220 sorlowalk2.o
+                0x0800daf4                sorlowalk2Tiles
+                0x0800dcf4                sorlowalk2Pal
+ *all.rodata*(*)
+ *(.roda)
+ *(.rodata.*)
+ *(.gnu.linkonce.r*)
+                0x0800dd14                . = ALIGN (0x4)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0800dd14                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0800dd14                __exidx_end = .
+
+.ctors          0x0800dd14        0x0
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+                0x0800dd14                . = ALIGN (0x4)
+
+.dtors          0x0800dd14        0x0
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x0800dd14                . = ALIGN (0x4)
+
+.eh_frame       0x0800dd14        0x4
+ *(.eh_frame)
+ .eh_frame      0x0800dd14        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtbegin.o
+ .eh_frame      0x0800dd14        0x4 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtend.o
+                0x0800dd18                . = ALIGN (0x4)
+
+.rel.dyn        0x0800dd18        0x0
+ .rel.iplt      0x0800dd18        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+
+.gcc_except_table
+                0x0800dd18        0x0
+ *(.gcc_except_table)
+                0x0800dd18                . = ALIGN (0x4)
+                0x0800dd18                __iwram_lma = .
+
+.iwram          0x03000000        0x0 load address 0x0800dd18
+                0x03000000                __iwram_start__ = ABSOLUTE (.)
+ *(.iwram)
+ *iwram.*(.text)
+                0x03000000                . = ALIGN (0x4)
+                0x03000000                __iwram_end__ = ABSOLUTE (.)
+                0x0800dd18                __data_lma = (__iwram_lma + SIZEOF (.iwram))
+
+.bss            0x03000000      0x424
+                0x03000000                __bss_start = ABSOLUTE (.)
+                0x03000000                __bss_start__ = ABSOLUTE (.)
+ *(.dynbss)
+ *(.gnu.linkonce.b*)
+ *(.bss*)
+ .bss.completed.6484
+                0x03000000        0x1 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtbegin.o
+ *fill*         0x03000001        0x3 
+ .bss.object.6489
+                0x03000004       0x18 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtbegin.o
+ .bss           0x0300001c      0x400 gba_gfx.o
+                0x0300001c                obj_buffer
+ .bss           0x0300041c        0x4 gba_input.o
+                0x0300041c                __currKeys
+                0x0300041e                __prevKeys
+ .bss.fake_heap_end
+                0x03000420        0x4 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb\libsysbase.a(malloc_vars.o)
+                0x03000420                fake_heap_end
+ *(COMMON)
+                0x03000424                . = ALIGN (0x4)
+                0x03000424                __bss_end__ = ABSOLUTE (.)
+
+.data           0x03000424        0x8 load address 0x0800dd18
+                0x03000424                __data_start__ = ABSOLUTE (.)
+ *(.data)
+ .data          0x03000424        0x4 gba_gfx.o
+                0x03000424                vid_page
+ .data          0x03000428        0x4 gba_mathUtil.o
+                0x03000428                __qran_seed
+ *(.data.*)
+ *(.gnu.linkonce.d*)
+                0x0300042c                . = ALIGN (0x4)
+                0x0800dd20                __preinit_lma = (__data_lma + SIZEOF (.data))
+
+.igot.plt       0x0300042c        0x0 load address 0x0800dd20
+ .igot.plt      0x0300042c        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+
+.tm_clone_table
+                0x0300042c        0x0 load address 0x0800dd20
+ .tm_clone_table
+                0x0300042c        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtbegin.o
+ .tm_clone_table
+                0x0300042c        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtend.o
+
+.preinit_array  0x0300042c        0x0 load address 0x0800dd20
+                0x0300042c                __preinit_array_start = ABSOLUTE (.)
+ *(.preinit_array)
+                0x0300042c                __preinit_array_end = ABSOLUTE (.)
+                0x0800dd20                __init_lma = (__preinit_lma + SIZEOF (.preinit_array))
+
+.init_array     0x0300042c        0x4 load address 0x0800dd20
+                0x0300042c                __init_array_start = ABSOLUTE (.)
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x0300042c        0x4 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtbegin.o
+                0x03000430                __init_array_end = ABSOLUTE (.)
+                0x0800dd24                __fini_lma = (__init_lma + SIZEOF (.init_array))
+
+.fini_array     0x03000430        0x4 load address 0x0800dd24
+                0x03000430                __fini_array_start = ABSOLUTE (.)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x03000430        0x4 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtbegin.o
+                0x03000434                __fini_array_end = ABSOLUTE (.)
+                0x0800dd28                __jcr_lma = (__fini_lma + SIZEOF (.fini_array))
+
+.jcr            0x03000434        0x0 load address 0x0800dd28
+ *(.jcr)
+                0x03000434                __data_end__ = ABSOLUTE (.)
+                0x0800dd28                __iwram_overlay_lma = (__jcr_lma + SIZEOF (.jcr))
+                0x03000434                __iwram_overlay_start = .
+
+.iwram0         0x03000434        0x0 load address 0x0800dd28
+ *(.iwram0)
+                0x03000434                . = ALIGN (0x4)
+                0x0800dd28                PROVIDE (__load_start_iwram0, LOADADDR (.iwram0))
+                0x0800dd28                PROVIDE (__load_stop_iwram0, (LOADADDR (.iwram0) + SIZEOF (.iwram0)))
+
+.iwram1         0x03000434        0x0
+ *(.iwram1)
+                0x03000434                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__load_start_iwram1, LOADADDR (.iwram1))
+                [!provide]                PROVIDE (__load_stop_iwram1, (LOADADDR (.iwram1) + SIZEOF (.iwram1)))
+
+.iwram2         0x03000434        0x0
+ *(.iwram2)
+                0x03000434                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__load_start_iwram2, LOADADDR (.iwram2))
+                [!provide]                PROVIDE (__load_stop_iwram2, (LOADADDR (.iwram2) + SIZEOF (.iwram2)))
+
+.iwram3         0x03000434        0x0
+ *(.iwram3)
+                0x03000434                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__load_start_iwram3, LOADADDR (.iwram3))
+                [!provide]                PROVIDE (__load_stop_iwram3, (LOADADDR (.iwram3) + SIZEOF (.iwram3)))
+
+.iwram4         0x03000434        0x0
+ *(.iwram4)
+                0x03000434                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__load_start_iwram4, LOADADDR (.iwram4))
+                [!provide]                PROVIDE (__load_stop_iwram4, (LOADADDR (.iwram4) + SIZEOF (.iwram4)))
+
+.iwram5         0x03000434        0x0
+ *(.iwram5)
+                0x03000434                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__load_start_iwram5, LOADADDR (.iwram5))
+                [!provide]                PROVIDE (__load_stop_iwram5, (LOADADDR (.iwram5) + SIZEOF (.iwram5)))
+
+.iwram6         0x03000434        0x0
+ *(.iwram6)
+                0x03000434                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__load_start_iwram6, LOADADDR (.iwram6))
+                [!provide]                PROVIDE (__load_stop_iwram6, (LOADADDR (.iwram6) + SIZEOF (.iwram6)))
+
+.iwram7         0x03000434        0x0
+ *(.iwram7)
+                0x03000434                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__load_start_iwram7, LOADADDR (.iwram7))
+                [!provide]                PROVIDE (__load_stop_iwram7, (LOADADDR (.iwram7) + SIZEOF (.iwram7)))
+
+.iwram8         0x03000434        0x0
+ *(.iwram8)
+                0x03000434                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__load_start_iwram8, LOADADDR (.iwram8))
+                [!provide]                PROVIDE (__load_stop_iwram8, (LOADADDR (.iwram8) + SIZEOF (.iwram8)))
+
+.iwram9         0x03000434        0x0
+ *(.iwram9)
+                0x03000434                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__load_start_iwram9, LOADADDR (.iwram9))
+                [!provide]                PROVIDE (__load_stop_iwram9, (LOADADDR (.iwram9) + SIZEOF (.iwram9)))
+                0x03000434                __iwram_overlay_end = .
+                0x0800dd28                __ewram_lma = (__iwram_overlay_lma + (__iwram_overlay_end - __iwram_overlay_start))
+                0x03000434                __iheap_start = .
+                0x02000000                __ewram_start = ORIGIN (ewram)
+
+.ewram          0x02000000        0x0 load address 0x0800dd28
+ *(.ewram)
+                0x02000000                . = ALIGN (0x4)
+                0x02000000                __ewram_end = ABSOLUTE (.)
+                0x0800dd28                __pad_lma = (__ewram_lma + SIZEOF (.ewram))
+
+.sbss           0x02000000        0x0
+                0x02000000                __sbss_start__ = ABSOLUTE (.)
+ *(.sbss)
+                0x02000000                . = ALIGN (0x4)
+                0x02000000                __sbss_end__ = ABSOLUTE (.)
+                0x02000000                __end__ = ABSOLUTE (.)
+                0x02000000                __eheap_start = ABSOLUTE (.)
+
+.pad            0x02000000        0x8 load address 0x0800dd28
+                0x02000000        0x4 LONG 0x52416b64
+                0x02000004        0x4 LONG 0x4d
+                0x02000008                . = ALIGN (0x4)
+                0x0800dd30                __rom_end__ = (__pad_lma + SIZEOF (.pad))
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x22
+ *(.comment)
+ .comment       0x00000000       0x22 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtbegin.o
+                                 0x23 (size before relaxing)
+ .comment       0x00000022       0x23 BG_Map.o
+ .comment       0x00000022       0x23 BG_Palette.o
+ .comment       0x00000022       0x23 BG_Tiles.o
+ .comment       0x00000022       0x23 FG_Collisions.o
+ .comment       0x00000022       0x23 FG_Map.o
+ .comment       0x00000022       0x23 FG_Palette.o
+ .comment       0x00000022       0x23 FG_Tiles.o
+ .comment       0x00000022       0x23 background_manager.o
+ .comment       0x00000022       0x23 flameloop1.o
+ .comment       0x00000022       0x23 flameloop2.o
+ .comment       0x00000022       0x23 flameloop3.o
+ .comment       0x00000022       0x23 flameloop4.o
+ .comment       0x00000022       0x23 flameloop5.o
+ .comment       0x00000022       0x23 flameloop6.o
+ .comment       0x00000022       0x23 flameloop7.o
+ .comment       0x00000022       0x23 flamestart1.o
+ .comment       0x00000022       0x23 flamestart2.o
+ .comment       0x00000022       0x23 flamestart3.o
+ .comment       0x00000022       0x23 game_manager.o
+ .comment       0x00000022       0x23 gba_drawing.o
+ .comment       0x00000022       0x23 gba_gfx.o
+ .comment       0x00000022       0x23 gba_input.o
+ .comment       0x00000022       0x23 gba_math.o
+ .comment       0x00000022       0x23 gba_mathUtil.o
+ .comment       0x00000022       0x23 loader.o
+ .comment       0x00000022       0x23 main.o
+ .comment       0x00000022       0x23 object.o
+ .comment       0x00000022       0x23 object_animation_controller.o
+ .comment       0x00000022       0x23 particle_sys.o
+ .comment       0x00000022       0x23 player.o
+ .comment       0x00000022       0x23 player_flame.o
+ .comment       0x00000022       0x23 sinlut.o
+ .comment       0x00000022       0x23 snow.o
+ .comment       0x00000022       0x23 sorloattack.o
+ .comment       0x00000022       0x23 sorlojump.o
+ .comment       0x00000022       0x23 sorlostatic.o
+ .comment       0x00000022       0x23 sorlowalk1.o
+ .comment       0x00000022       0x23 sorlowalk2.o
+ .comment       0x00000022       0x23 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-init.o)
+ .comment       0x00000022       0x23 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb\libsysbase.a(malloc_vars.o)
+ .comment       0x00000022       0x23 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtend.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x3f8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x18 BG_Map.o
+ .debug_aranges
+                0x00000018       0x18 BG_Palette.o
+ .debug_aranges
+                0x00000030       0x18 BG_Tiles.o
+ .debug_aranges
+                0x00000048       0x18 FG_Collisions.o
+ .debug_aranges
+                0x00000060       0x18 FG_Map.o
+ .debug_aranges
+                0x00000078       0x18 FG_Palette.o
+ .debug_aranges
+                0x00000090       0x18 FG_Tiles.o
+ .debug_aranges
+                0x000000a8       0x20 background_manager.o
+ .debug_aranges
+                0x000000c8       0x18 flameloop1.o
+ .debug_aranges
+                0x000000e0       0x18 flameloop2.o
+ .debug_aranges
+                0x000000f8       0x18 flameloop3.o
+ .debug_aranges
+                0x00000110       0x18 flameloop4.o
+ .debug_aranges
+                0x00000128       0x18 flameloop5.o
+ .debug_aranges
+                0x00000140       0x18 flameloop6.o
+ .debug_aranges
+                0x00000158       0x18 flameloop7.o
+ .debug_aranges
+                0x00000170       0x18 flamestart1.o
+ .debug_aranges
+                0x00000188       0x18 flamestart2.o
+ .debug_aranges
+                0x000001a0       0x18 flamestart3.o
+ .debug_aranges
+                0x000001b8       0x20 game_manager.o
+ .debug_aranges
+                0x000001d8       0x20 gba_drawing.o
+ .debug_aranges
+                0x000001f8       0x20 gba_gfx.o
+ .debug_aranges
+                0x00000218       0x18 gba_input.o
+ .debug_aranges
+                0x00000230       0x20 gba_math.o
+ .debug_aranges
+                0x00000250       0x20 gba_mathUtil.o
+ .debug_aranges
+                0x00000270       0x20 loader.o
+ .debug_aranges
+                0x00000290       0x20 main.o
+ .debug_aranges
+                0x000002b0       0x20 object.o
+ .debug_aranges
+                0x000002d0       0x20 object_animation_controller.o
+ .debug_aranges
+                0x000002f0       0x20 particle_sys.o
+ .debug_aranges
+                0x00000310       0x20 player.o
+ .debug_aranges
+                0x00000330       0x20 player_flame.o
+ .debug_aranges
+                0x00000350       0x18 sinlut.o
+ .debug_aranges
+                0x00000368       0x18 snow.o
+ .debug_aranges
+                0x00000380       0x18 sorloattack.o
+ .debug_aranges
+                0x00000398       0x18 sorlojump.o
+ .debug_aranges
+                0x000003b0       0x18 sorlostatic.o
+ .debug_aranges
+                0x000003c8       0x18 sorlowalk1.o
+ .debug_aranges
+                0x000003e0       0x18 sorlowalk2.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x7404
+ *(.debug_info)
+ .debug_info    0x00000000       0x5a BG_Map.o
+ .debug_info    0x0000005a       0x59 BG_Palette.o
+ .debug_info    0x000000b3       0x5a BG_Tiles.o
+ .debug_info    0x0000010d       0x5a FG_Collisions.o
+ .debug_info    0x00000167       0x5a FG_Map.o
+ .debug_info    0x000001c1       0x59 FG_Palette.o
+ .debug_info    0x0000021a       0x5a FG_Tiles.o
+ .debug_info    0x00000274      0xc8f background_manager.o
+ .debug_info    0x00000f03       0x81 flameloop1.o
+ .debug_info    0x00000f84       0x81 flameloop2.o
+ .debug_info    0x00001005       0x81 flameloop3.o
+ .debug_info    0x00001086       0x81 flameloop4.o
+ .debug_info    0x00001107       0x81 flameloop5.o
+ .debug_info    0x00001188       0x81 flameloop6.o
+ .debug_info    0x00001209       0x81 flameloop7.o
+ .debug_info    0x0000128a       0x81 flamestart1.o
+ .debug_info    0x0000130b       0x81 flamestart2.o
+ .debug_info    0x0000138c       0x81 flamestart3.o
+ .debug_info    0x0000140d      0xb13 game_manager.o
+ .debug_info    0x00001f20      0x2cf gba_drawing.o
+ .debug_info    0x000021ef      0x7c1 gba_gfx.o
+ .debug_info    0x000029b0       0xb9 gba_input.o
+ .debug_info    0x00002a69      0x338 gba_math.o
+ .debug_info    0x00002da1      0x19a gba_mathUtil.o
+ .debug_info    0x00002f3b     0x1270 loader.o
+ .debug_info    0x000041ab      0xa60 main.o
+ .debug_info    0x00004c0b      0x50a object.o
+ .debug_info    0x00005115      0x63b object_animation_controller.o
+ .debug_info    0x00005750      0x39e particle_sys.o
+ .debug_info    0x00005aee      0xef6 player.o
+ .debug_info    0x000069e4      0x6d6 player_flame.o
+ .debug_info    0x000070ba       0x59 sinlut.o
+ .debug_info    0x00007113       0x6c snow.o
+ .debug_info    0x0000717f       0x81 sorloattack.o
+ .debug_info    0x00007200       0x81 sorlojump.o
+ .debug_info    0x00007281       0x81 sorlostatic.o
+ .debug_info    0x00007302       0x81 sorlowalk1.o
+ .debug_info    0x00007383       0x81 sorlowalk2.o
+
+.debug_abbrev   0x00000000     0x1a7f
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x48 BG_Map.o
+ .debug_abbrev  0x00000048       0x48 BG_Palette.o
+ .debug_abbrev  0x00000090       0x48 BG_Tiles.o
+ .debug_abbrev  0x000000d8       0x48 FG_Collisions.o
+ .debug_abbrev  0x00000120       0x48 FG_Map.o
+ .debug_abbrev  0x00000168       0x48 FG_Palette.o
+ .debug_abbrev  0x000001b0       0x48 FG_Tiles.o
+ .debug_abbrev  0x000001f8      0x228 background_manager.o
+ .debug_abbrev  0x00000420       0x48 flameloop1.o
+ .debug_abbrev  0x00000468       0x48 flameloop2.o
+ .debug_abbrev  0x000004b0       0x48 flameloop3.o
+ .debug_abbrev  0x000004f8       0x48 flameloop4.o
+ .debug_abbrev  0x00000540       0x48 flameloop5.o
+ .debug_abbrev  0x00000588       0x48 flameloop6.o
+ .debug_abbrev  0x000005d0       0x48 flameloop7.o
+ .debug_abbrev  0x00000618       0x48 flamestart1.o
+ .debug_abbrev  0x00000660       0x48 flamestart2.o
+ .debug_abbrev  0x000006a8       0x48 flamestart3.o
+ .debug_abbrev  0x000006f0      0x1c9 game_manager.o
+ .debug_abbrev  0x000008b9       0xd5 gba_drawing.o
+ .debug_abbrev  0x0000098e      0x19a gba_gfx.o
+ .debug_abbrev  0x00000b28       0x5e gba_input.o
+ .debug_abbrev  0x00000b86       0xde gba_math.o
+ .debug_abbrev  0x00000c64      0x115 gba_mathUtil.o
+ .debug_abbrev  0x00000d79      0x24e loader.o
+ .debug_abbrev  0x00000fc7      0x1ba main.o
+ .debug_abbrev  0x00001181      0x12d object.o
+ .debug_abbrev  0x000012ae      0x158 object_animation_controller.o
+ .debug_abbrev  0x00001406      0x106 particle_sys.o
+ .debug_abbrev  0x0000150c      0x26b player.o
+ .debug_abbrev  0x00001777      0x113 player_flame.o
+ .debug_abbrev  0x0000188a       0x45 sinlut.o
+ .debug_abbrev  0x000018cf       0x48 snow.o
+ .debug_abbrev  0x00001917       0x48 sorloattack.o
+ .debug_abbrev  0x0000195f       0x48 sorlojump.o
+ .debug_abbrev  0x000019a7       0x48 sorlostatic.o
+ .debug_abbrev  0x000019ef       0x48 sorlowalk1.o
+ .debug_abbrev  0x00001a37       0x48 sorlowalk2.o
+
+.debug_line     0x00000000     0x2392
+ *(.debug_line)
+ .debug_line    0x00000000       0x4f BG_Map.o
+ .debug_line    0x0000004f       0x53 BG_Palette.o
+ .debug_line    0x000000a2       0x51 BG_Tiles.o
+ .debug_line    0x000000f3       0x56 FG_Collisions.o
+ .debug_line    0x00000149       0x4f FG_Map.o
+ .debug_line    0x00000198       0x53 FG_Palette.o
+ .debug_line    0x000001eb       0x51 FG_Tiles.o
+ .debug_line    0x0000023c      0x3e0 background_manager.o
+ .debug_line    0x0000061c       0x53 flameloop1.o
+ .debug_line    0x0000066f       0x53 flameloop2.o
+ .debug_line    0x000006c2       0x53 flameloop3.o
+ .debug_line    0x00000715       0x53 flameloop4.o
+ .debug_line    0x00000768       0x53 flameloop5.o
+ .debug_line    0x000007bb       0x53 flameloop6.o
+ .debug_line    0x0000080e       0x53 flameloop7.o
+ .debug_line    0x00000861       0x54 flamestart1.o
+ .debug_line    0x000008b5       0x54 flamestart2.o
+ .debug_line    0x00000909       0x54 flamestart3.o
+ .debug_line    0x0000095d      0x233 game_manager.o
+ .debug_line    0x00000b90      0x1c4 gba_drawing.o
+ .debug_line    0x00000d54      0x1be gba_gfx.o
+ .debug_line    0x00000f12      0x11e gba_input.o
+ .debug_line    0x00001030      0x158 gba_math.o
+ .debug_line    0x00001188      0x158 gba_mathUtil.o
+ .debug_line    0x000012e0      0x26b loader.o
+ .debug_line    0x0000154b      0x208 main.o
+ .debug_line    0x00001753      0x185 object.o
+ .debug_line    0x000018d8      0x1d2 object_animation_controller.o
+ .debug_line    0x00001aaa      0x17f particle_sys.o
+ .debug_line    0x00001c29      0x35f player.o
+ .debug_line    0x00001f88      0x1ce player_flame.o
+ .debug_line    0x00002156       0x4f sinlut.o
+ .debug_line    0x000021a5       0x4d snow.o
+ .debug_line    0x000021f2       0x54 sorloattack.o
+ .debug_line    0x00002246       0x52 sorlojump.o
+ .debug_line    0x00002298       0x54 sorlostatic.o
+ .debug_line    0x000022ec       0x53 sorlowalk1.o
+ .debug_line    0x0000233f       0x53 sorlowalk2.o
+
+.debug_frame    0x00000000      0xbe8
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x154 background_manager.o
+ .debug_frame   0x00000154       0x94 game_manager.o
+ .debug_frame   0x000001e8       0x70 gba_drawing.o
+ .debug_frame   0x00000258      0x270 gba_gfx.o
+ .debug_frame   0x000004c8      0x190 gba_math.o
+ .debug_frame   0x00000658       0xac gba_mathUtil.o
+ .debug_frame   0x00000704       0x94 loader.o
+ .debug_frame   0x00000798       0x30 main.o
+ .debug_frame   0x000007c8       0xdc object.o
+ .debug_frame   0x000008a4       0xd8 object_animation_controller.o
+ .debug_frame   0x0000097c       0x94 particle_sys.o
+ .debug_frame   0x00000a10      0x144 player.o
+ .debug_frame   0x00000b54       0x94 player_flame.o
+
+.debug_str      0x00000000     0x1ec8
+ *(.debug_str)
+ .debug_str     0x00000000       0xbf BG_Map.o
+                                 0xcc (size before relaxing)
+ .debug_str     0x000000bf       0x3e BG_Palette.o
+                                 0xd4 (size before relaxing)
+ .debug_str     0x000000fd       0x3a BG_Tiles.o
+                                 0xd0 (size before relaxing)
+ .debug_str     0x00000137       0x50 FG_Collisions.o
+                                 0xd3 (size before relaxing)
+ .debug_str     0x00000187       0x36 FG_Map.o
+                                 0xcc (size before relaxing)
+ .debug_str     0x000001bd       0x3e FG_Palette.o
+                                 0xd4 (size before relaxing)
+ .debug_str     0x000001fb       0x3a FG_Tiles.o
+                                 0xd0 (size before relaxing)
+ .debug_str     0x00000235      0x3e6 background_manager.o
+                                0x57b (size before relaxing)
+ .debug_str     0x0000061b       0x51 flameloop1.o
+                                 0xe7 (size before relaxing)
+ .debug_str     0x0000066c       0x51 flameloop2.o
+                                 0xe7 (size before relaxing)
+ .debug_str     0x000006bd       0x51 flameloop3.o
+                                 0xe7 (size before relaxing)
+ .debug_str     0x0000070e       0x51 flameloop4.o
+                                 0xe7 (size before relaxing)
+ .debug_str     0x0000075f       0x51 flameloop5.o
+                                 0xe7 (size before relaxing)
+ .debug_str     0x000007b0       0x51 flameloop6.o
+                                 0xe7 (size before relaxing)
+ .debug_str     0x00000801       0x51 flameloop7.o
+                                 0xe7 (size before relaxing)
+ .debug_str     0x00000852       0x54 flamestart1.o
+                                 0xea (size before relaxing)
+ .debug_str     0x000008a6       0x54 flamestart2.o
+                                 0xea (size before relaxing)
+ .debug_str     0x000008fa       0x54 flamestart3.o
+                                 0xea (size before relaxing)
+ .debug_str     0x0000094e      0x36f game_manager.o
+                                0x75c (size before relaxing)
+ .debug_str     0x00000cbd       0xb4 gba_drawing.o
+                                0x206 (size before relaxing)
+ .debug_str     0x00000d71      0x272 gba_gfx.o
+                                0x472 (size before relaxing)
+ .debug_str     0x00000fe3       0x32 gba_input.o
+                                0x156 (size before relaxing)
+ .debug_str     0x00001015       0xa2 gba_math.o
+                                0x1d6 (size before relaxing)
+ .debug_str     0x000010b7       0x5d gba_mathUtil.o
+                                0x17f (size before relaxing)
+ .debug_str     0x00001114      0x55b loader.o
+                                0x983 (size before relaxing)
+ .debug_str     0x0000166f       0x4e main.o
+                                0x6cf (size before relaxing)
+ .debug_str     0x000016bd      0x153 object.o
+                                0x394 (size before relaxing)
+ .debug_str     0x00001810      0x12e object_animation_controller.o
+                                0x471 (size before relaxing)
+ .debug_str     0x0000193e      0x10b particle_sys.o
+                                0x2ca (size before relaxing)
+ .debug_str     0x00001a49      0x292 player.o
+                                0xa13 (size before relaxing)
+ .debug_str     0x00001cdb       0x91 player_flame.o
+                                0x539 (size before relaxing)
+ .debug_str     0x00001d6c       0x2f sinlut.o
+                                 0xc4 (size before relaxing)
+ .debug_str     0x00001d9b       0x2d snow.o
+                                 0xd5 (size before relaxing)
+ .debug_str     0x00001dc8       0x34 sorloattack.o
+                                 0xea (size before relaxing)
+ .debug_str     0x00001dfc       0x32 sorlojump.o
+                                 0xe4 (size before relaxing)
+ .debug_str     0x00001e2e       0x34 sorlostatic.o
+                                 0xea (size before relaxing)
+ .debug_str     0x00001e62       0x33 sorlowalk1.o
+                                 0xe7 (size before relaxing)
+ .debug_str     0x00001e95       0x33 sorlowalk2.o
+                                 0xe7 (size before relaxing)
+
+.debug_loc      0x00000000     0x12fb
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x214 background_manager.o
+ .debug_loc     0x00000214       0xe1 game_manager.o
+ .debug_loc     0x000002f5       0xaa gba_drawing.o
+ .debug_loc     0x0000039f      0x410 gba_gfx.o
+ .debug_loc     0x000007af      0x2a0 gba_math.o
+ .debug_loc     0x00000a4f      0x10c gba_mathUtil.o
+ .debug_loc     0x00000b5b       0xe4 loader.o
+ .debug_loc     0x00000c3f       0x3a main.o
+ .debug_loc     0x00000c79      0x150 object.o
+ .debug_loc     0x00000dc9      0x150 object_animation_controller.o
+ .debug_loc     0x00000f19       0xed particle_sys.o
+ .debug_loc     0x00001006      0x214 player.o
+ .debug_loc     0x0000121a       0xe1 player_flame.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.stack          0x00080000        0x0
+                0x00080000                _stack = .
+ *(.stack)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+.ARM.attributes
+                0x00000000       0x2c
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x20 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+ .ARM.attributes
+                0x00000020       0x16 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crti.o
+ .ARM.attributes
+                0x00000036       0x30 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtbegin.o
+ .ARM.attributes
+                0x00000066       0x30 BG_Map.o
+ .ARM.attributes
+                0x00000096       0x30 BG_Palette.o
+ .ARM.attributes
+                0x000000c6       0x30 BG_Tiles.o
+ .ARM.attributes
+                0x000000f6       0x30 FG_Collisions.o
+ .ARM.attributes
+                0x00000126       0x30 FG_Map.o
+ .ARM.attributes
+                0x00000156       0x30 FG_Palette.o
+ .ARM.attributes
+                0x00000186       0x30 FG_Tiles.o
+ .ARM.attributes
+                0x000001b6       0x30 background_manager.o
+ .ARM.attributes
+                0x000001e6       0x30 flameloop1.o
+ .ARM.attributes
+                0x00000216       0x30 flameloop2.o
+ .ARM.attributes
+                0x00000246       0x30 flameloop3.o
+ .ARM.attributes
+                0x00000276       0x30 flameloop4.o
+ .ARM.attributes
+                0x000002a6       0x30 flameloop5.o
+ .ARM.attributes
+                0x000002d6       0x30 flameloop6.o
+ .ARM.attributes
+                0x00000306       0x30 flameloop7.o
+ .ARM.attributes
+                0x00000336       0x30 flamestart1.o
+ .ARM.attributes
+                0x00000366       0x30 flamestart2.o
+ .ARM.attributes
+                0x00000396       0x30 flamestart3.o
+ .ARM.attributes
+                0x000003c6       0x30 game_manager.o
+ .ARM.attributes
+                0x000003f6       0x30 gba_drawing.o
+ .ARM.attributes
+                0x00000426       0x30 gba_gfx.o
+ .ARM.attributes
+                0x00000456       0x30 gba_input.o
+ .ARM.attributes
+                0x00000486       0x30 gba_math.o
+ .ARM.attributes
+                0x000004b6       0x30 gba_mathUtil.o
+ .ARM.attributes
+                0x000004e6       0x30 loader.o
+ .ARM.attributes
+                0x00000516       0x30 main.o
+ .ARM.attributes
+                0x00000546       0x30 object.o
+ .ARM.attributes
+                0x00000576       0x30 object_animation_controller.o
+ .ARM.attributes
+                0x000005a6       0x30 particle_sys.o
+ .ARM.attributes
+                0x000005d6       0x30 player.o
+ .ARM.attributes
+                0x00000606       0x30 player_flame.o
+ .ARM.attributes
+                0x00000636       0x30 sinlut.o
+ .ARM.attributes
+                0x00000666       0x30 snow.o
+ .ARM.attributes
+                0x00000696       0x30 sorloattack.o
+ .ARM.attributes
+                0x000006c6       0x30 sorlojump.o
+ .ARM.attributes
+                0x000006f6       0x30 sorlostatic.o
+ .ARM.attributes
+                0x00000726       0x30 sorlowalk1.o
+ .ARM.attributes
+                0x00000756       0x30 sorlowalk2.o
+ .ARM.attributes
+                0x00000786       0x18 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x0000079e       0x16 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000007b4       0x18 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb\libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x000007cc       0x18 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb\libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x000007e4       0x18 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb\libgcc.a(_arm_fixsfsi.o)
+ .ARM.attributes
+                0x000007fc       0x30 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000082c       0x30 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb\libsysbase.a(malloc_vars.o)
+ .ARM.attributes
+                0x0000085c       0x30 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtend.o
+ .ARM.attributes
+                0x0000088c       0x16 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtn.o
+
+/DISCARD/
+ *(.note.GNU-stack)
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crti.o
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtbegin.o
+LOAD BG_Map.o
+LOAD BG_Palette.o
+LOAD BG_Tiles.o
+LOAD FG_Collisions.o
+LOAD FG_Map.o
+LOAD FG_Palette.o
+LOAD FG_Tiles.o
+LOAD background_manager.o
+LOAD flameloop1.o
+LOAD flameloop2.o
+LOAD flameloop3.o
+LOAD flameloop4.o
+LOAD flameloop5.o
+LOAD flameloop6.o
+LOAD flameloop7.o
+LOAD flamestart1.o
+LOAD flamestart2.o
+LOAD flamestart3.o
+LOAD game_manager.o
+LOAD gba_drawing.o
+LOAD gba_gfx.o
+LOAD gba_input.o
+LOAD gba_math.o
+LOAD gba_mathUtil.o
+LOAD loader.o
+LOAD main.o
+LOAD object.o
+LOAD object_animation_controller.o
+LOAD particle_sys.o
+LOAD player.o
+LOAD player_flame.o
+LOAD sinlut.o
+LOAD snow.o
+LOAD sorloattack.o
+LOAD sorlojump.o
+LOAD sorlostatic.o
+LOAD sorlowalk1.o
+LOAD sorlowalk2.o
+LOAD c:/devkitPro/libgba/lib\libmm.a
+LOAD c:/devkitPro/libgba/lib\libgba.a
+START GROUP
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb\libgcc.a
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb\libg.a
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb\libc.a
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/../../../../arm-none-eabi/lib/thumb\libsysbase.a
+END GROUP
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtend.o
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/7.1.0/thumb/crtn.o
+OUTPUT(c:/Users/sgtmo/Desktop/gbagame/gbagame.elf elf32-littlearm)
