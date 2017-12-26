@@ -310,7 +310,7 @@ void LoadLeftTiles(BackgroundManager * const a_pBackgroundManager)
 	// Get our Starting offset
 	u32 mapOffs = a_pBackgroundManager->uiFGMapOffSet - BG_TILE_BOUND - 1;
 
-	for (u8 row = 0; row < BG_TILE_BOUND; row +=2)
+	for (u8 row = 0; row < BG_TILE_BOUND; ++row)
 	{
 		// Set our Tile
 		a_pBackgroundManager->puiFGMapMemLoc[newTileCol + (row * BG_TILE_BOUND)] = fg_map[mapOffs + (row * FG_WIDTH_TILES)];
